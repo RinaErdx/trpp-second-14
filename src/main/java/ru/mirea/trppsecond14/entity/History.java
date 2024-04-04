@@ -1,12 +1,10 @@
-package ru.mirea.trpp_second_14.entity;
+package ru.mirea.trppsecond14.entity;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import com.opencsv.bean.CsvBindByName;
 import lombok.Getter;
 import lombok.Setter;
 import lombok.ToString;
-
-import java.util.List;
 
 /** Сущность истории действий. */
 @Getter
